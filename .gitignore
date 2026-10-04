@@ -1,0 +1,25 @@
+PREP.md
+CLAUDE.md
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go build
+/docflow
+
+# Dependency/vendor
+/vendor/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
